@@ -1,4 +1,4 @@
-# Algorithms-and-Data-Structures
+# Algorithms-and-Data-Structures-in-C
 > Few assignments for Algorithms and Data Structures subject at Military University of Technology in Warsaw
 
 ### 1. Singly Linked List in C:
