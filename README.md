@@ -29,7 +29,7 @@
   - LVR - in-order, infixed
   - LRV - post-order, postfixed
 
-### AVL tree using doubly linked list in C.
+### 6. AVL tree using doubly linked list in C.
 - Adding a node
 - Deleting a node
 - Searching for a node (Path)
@@ -40,9 +40,9 @@
   - LVR - in-order, infixed
   - LRV - post-order, postfixed
 
-### Algorithm implementing the solution to the "Tower of Hanoi" problem using stack in C.
+### 7. Algorithm implementing the solution to the "Tower of Hanoi" problem using stack in C.
 
-###  Max Heap in C.
+### 8. Max Heap in C.
 - Adding a node
 - Deleting a node
 - Deleting data from the whole tree
@@ -52,8 +52,8 @@
   - LVR - in-order, infixed
   - LRV - post-order, postfixed
 
-### Quick sort in C.
+### 9. Quick sort in C.
 
-### Merge sort in C.
+### 10. Merge sort in C.
 
-### Heap sort in C.
+### 11. Heap sort in C.
