@@ -1,31 +1,59 @@
-# Algorithms-and-Data-Structures-in-C
+# Algorithms-and-Data-Structures
 > Few assignments for Algorithms and Data Structures subject at Military University of Technology in Warsaw
 
+### 1. Singly Linked List in C:
+- Adding values to the list
+- Removing values from the list
+- Displaying the content of the list
+- Calculating and displaying the average of the values placed in the list
 
+### 2. Business Card Holder using Doubly Linked List in C++:
+- Add business card
+- Search for a business card
+- List business cards (A...Z)
+- List business cards (Z...A)
+- Delete a business card
 
-#### The main goal of this project was to use all of Object Oriented Programming principles and mechanisms and create an UML class diagram.
+### 3. Atkin-Bernstein Sieve using singly linked list in C.
 
-## Task:
-Describe any selected part of reality with classes (min. 10) and implement relationships between them. Classes should have attributes and methods that change the state of objects. Invoke objects and call their methods. Add destructors and constructors and methods with this pointers.
+### 4. Conversion of arithmetic expressions written in the infix convention to expressions written in the postfix convention (Reverse Polish Notation) with a stack structure using singly linked list in C.
 
-Build a friendship mechanism between 7 classes, using private class fields and methods, in addition, for 5 classes add one friend function.
+### 5.  Binary Search Tree using doubly linked list in C.
+- Adding a node
+- Deleting a node
+- Searching for a node (Path)
+- Deleting data from the whole tree
+- Drawing/displaying the tree
+- Listing tree nodes in order:
+  - VLR - pre-order, prefixed
+  - LVR - in-order, infixed
+  - LRV - post-order, postfixed
 
-Add 5 classes to the existing design, overriding the existing classes, building at least four levels of hierarchy. Superior classes should have their own attributes and methods, shared with derived classes. 
+### AVL tree using doubly linked list in C.
+- Adding a node
+- Deleting a node
+- Searching for a node (Path)
+- Deleting data from the whole tree
+- Drawing/displaying the tree
+- Listing tree nodes in order:
+  - VLR - pre-order, prefixed
+  - LVR - in-order, infixed
+  - LRV - post-order, postfixed
 
-Extend the project with 5 generic classes (can be a separate file).
+### Algorithm implementing the solution to the "Tower of Hanoi" problem using stack in C.
 
-In the implemented project, add 4 abstract classes from which other classes will inherit.
-Abstract classes should have virtual methods (min 5 per class), which in derived classes will have their own implementation. 
+###  Max Heap in C.
+- Adding a node
+- Deleting a node
+- Deleting data from the whole tree
+- Drawing/displaying the tree
+- Listing tree nodes in order:
+  - VLR - pre-order, prefixed
+  - LVR - in-order, infixed
+  - LRV - post-order, postfixed
 
-In the project completed so far, add at least 5 overloaded operators for your own classes.
+### Quick sort
 
-Demonstrate the operation of the implemented mechanisms in the main function.
+### Merge sort
 
-Describe with a UML class diagram the implemented design for all classes.
-
-## My project
-As my subject I chose advertising portal and created 5 class hierarchies regarding Account, Category, Item, Ad and Advertising Portal which stores all informations like accounts and ads about specific portal.
-
-## UML class diagram
-Created with Enterprise Architect software <br>
-<img src="./uml-class-diagram.png" width=100% height=100%>
+### Heap sort in C.
