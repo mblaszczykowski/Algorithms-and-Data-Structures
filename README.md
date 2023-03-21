@@ -52,8 +52,8 @@
   - LVR - in-order, infixed
   - LRV - post-order, postfixed
 
-### Quick sort
+### Quick sort in C.
 
-### Merge sort
+### Merge sort in C.
 
 ### Heap sort in C.
